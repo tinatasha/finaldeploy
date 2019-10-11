@@ -1,0 +1,1 @@
+web: gunicorn finalDeployment.wsgi --log-file -
